@@ -1,0 +1,17 @@
+.idea
+yarn-error.log
+
+node_modules
+.env
+.envrc
+coverage
+coverage.json
+typechain
+/dist
+/scripts/debug/logs
+
+#Hardhat files
+cache
+artifacts
+/deployments/hardhat
+/deployments/localhost
